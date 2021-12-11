@@ -1,4 +1,4 @@
-# Plan Pathology App
+# Plant Pathology App
 
 A new Flutter application.
 
