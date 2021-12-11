@@ -1,0 +1,9 @@
+Cherry_healthy
+Corn_Northern_Leaf_Blight
+Peach_Bacterial_spot
+Potato_Early_blight
+Potato_healthy
+Strawberry_Leaf_scorch
+Tomato_healthy
+Tomato_Leaf_Mold
+Tomato_Yellow_Leaf_Curl_Virus
